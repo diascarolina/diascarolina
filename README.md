@@ -1,6 +1,6 @@
 ### Hello and welcome to my profile! 😊
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carodias/)
+[<img src="https://img.shields.io/badge/carodias-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carodias/)
 
 I'm Carolina and I am currently pursuing a Mathematics degree. 🧮
 
