@@ -18,5 +18,3 @@ Currently, I'm specializing my studies in:
 - <img src="https://img.icons8.com/doodle/17/000000/learning.png"/> Machine Learning and its algorithms
 - <img src="https://img.icons8.com/dusk/17/000000/area-chart.png"/> Data Storytelling
 - <img src="https://img.icons8.com/officexs/17/000000/database.png"/> SQL
-
-And many others, when I have the time.
