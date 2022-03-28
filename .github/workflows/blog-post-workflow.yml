@@ -14,6 +14,6 @@ jobs:
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://carodias.medium.com/feed"
+          feed_list: "https://medium.com/feed/@carodias"
       - name: Keep workflow alive
         uses: gautamkrishnar/keepalive-workflow@master
