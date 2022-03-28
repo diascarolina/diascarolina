@@ -14,4 +14,5 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@carodias"
           max_post_count: 3
+          filter_comments: ""
       - uses: gautamkrishnar/keepalive-workflow@master
