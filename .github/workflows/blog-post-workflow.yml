@@ -9,11 +9,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@carodias"
-      - name: Keep workflow alive
-        uses: gautamkrishnar/keepalive-workflow@master
+          max_post_count: 3
+      - uses: gautamkrishnar/keepalive-workflow@master
