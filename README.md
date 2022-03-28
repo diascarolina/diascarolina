@@ -20,11 +20,11 @@ I am interested in Data Science and its applications, as well as all things invo
 ### 🔎 Main Skills, Tools & Interests
 
 - 🟣 Python and its data science and machine learning libraries
-- 🔵 SQL and databases
+- 🔵 Machine Learning and Deep Learning
 - 🟢 Data science, data analysis and data visualization
 - 🟡 Statistics and mathematics
 - 🟠 Software development
-- 🔴Machine Learning and Deep Learning
+- 🔴 SQL and databases
 - ...
 
 ### 📊 Projects
