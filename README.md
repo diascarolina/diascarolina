@@ -42,9 +42,9 @@ I am interested in Data Science and its applications, as well as all things invo
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendendo o Princípio da Responsabilidade Única](https://carodias.medium.com/entendendo-o-princ%C3%ADpio-da-responsabilidade-%C3%BAnica-4f11cd4a3caa?source=rss-c98298801e45------2)
 - [GitHub e Mermaid: uma imagem vale mais que mil palavras](https://carodias.medium.com/github-e-mermaid-uma-imagem-vale-mais-que-mil-palavras-7cca09a205de?source=rss-c98298801e45------2)
 - [Seriam Grafos e Ciência de Dados uma Boa Combinação?](https://carodias.medium.com/seriam-grafos-e-ci%C3%AAncia-de-dados-uma-boa-combina%C3%A7%C3%A3o-cd1032b40410?source=rss-c98298801e45------2)
-- [Data Science Projects: What Comes After Jupyter Notebooks?](https://carodias.medium.com/data-science-projects-what-comes-after-jupyter-notebooks-930daff052ea?source=rss-c98298801e45------2)
 <!-- BLOG-POST-LIST:END -->
 
 🌐 [more posts...](https://carodias.medium.com/)
