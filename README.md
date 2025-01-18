@@ -6,8 +6,8 @@
 [<img src="https://img.shields.io/badge/diascarolina.github.io-800080?style=flat-square&logo=githubpages&logoColor=white" />](https://diascarolina.github.io)
 
 ### I'm a...
-- **Software Engineer** at [OfferFit](https://offerfit.ai/).
-- Master's student in **Computer Science** at State University of Ceará ([UECE](http://www.uece.br/)).
+- **Machine Learning Engineer**.
+- M.Sc. in **Computer Science** at State University of Ceará ([UECE](http://www.uece.br/)).
 - B.Sc. in **Mathematics** from Universidade Federal do Ceará ([UFC](http://www.ufc.br/)).
 
 ### Main Skills, Tools & Interests
